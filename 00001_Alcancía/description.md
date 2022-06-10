@@ -9,4 +9,4 @@ true
 false
 ```
 
-> Definí la función que acabamos de describir.
+> Definí la función `pozoVacio` que nos devuelva lo que acabamos de describir.
