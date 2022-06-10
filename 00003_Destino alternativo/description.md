@@ -10,6 +10,9 @@ Necesitamos una función que según la cantidad de personas que van a viajar y e
 ム pozo = 9000
 ム hastaDondeLlegamos(5)
 'Seguí ahorrando'
+ム pozo = 7500
+ム hastaDondeLlegamos(3)
+'Mendoza'
 ```
 
 > Definí la función `hastaDondeLlegamos`.
