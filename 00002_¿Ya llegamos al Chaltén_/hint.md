@@ -1,0 +1,1 @@
+¡Tené en cuenta que media persona no puede viajar! 😛
