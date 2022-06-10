@@ -7,3 +7,8 @@
     pozo = 200
     assert(!pozoVacio())
   })
+  
+  it("Si el pozo tiene 800 pesos no está vacío", function() {
+    pozo = 800
+    assert(!pozoVacio())
+  })
