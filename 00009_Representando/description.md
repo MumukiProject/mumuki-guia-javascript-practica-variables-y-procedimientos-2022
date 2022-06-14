@@ -3,7 +3,7 @@ En la clase están votando al representante del curso. Pero como esta es una cla
 ```javascript
 ム declararRepresentante("Perla", 5, "Enzo", 2)
 ム representante
-Perla
+'Perla'
 ```
 
 > Definí el procedimiento `declararRepresentante`
