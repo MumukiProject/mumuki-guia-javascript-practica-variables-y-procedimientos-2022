@@ -1,6 +1,10 @@
-En la comisión E están creando el registro histórico de delegados/as del curso. Para ellos quieren ahora un procedimiento que les permita registrar los/las delegados/as del curso en cada año en la variable global delegados_por_anio
+En la comisión E están creando el registro histórico de representantes del curso. Para ello quieren ahora un procedimiento que les permita registrar representantes del curso en cada año en la variable global `representantesPorAnio`
 
->>> registrar_delegado_del_anio("Sol", 2021)
->>> registrar_delegado_del_anio("Perla", 2022)
->>> delegados_por_anio
-Sol 2021, Perla 2022
+```javascript
+ム registrarRepresentanteDelAnio("Sol", 2021)
+ム registrarRepresentanteDelAnio("Perla", 2022)
+ム representantesPorAnio
+"Sol" 2021, "Perla" 2022
+```
+
+Definí el procedimiento `registrarRepresentanteDelAnio` que tome por parámetro el nombre y el año del representante 
