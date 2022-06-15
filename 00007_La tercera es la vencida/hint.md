@@ -1,1 +1,1 @@
-Para poder hacer estos cambios en la aplicación del impuesto I.V.G., quizás te convenga agregar nuevas variables globales (qué ironía 😜).
+Para poder hacer estos cambios en la aplicación del impuesto I.V.G., quizás te dejamos la variable global `aplicaciones` que te puede ser de ayuda. :yum:
