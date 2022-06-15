@@ -6,7 +6,7 @@ Por ejemplo:
 ```javascript
 ム pozo = 1000
 ム calcularMontoIvg()
-0 // porque para tributar el monto debe ser de al menos $15000
+0 //porque para tributar el monto debe ser de al menos $15000
 ム pozo = 16000
 ム calcularMontoIvg()
 160 // porque es un pozo de más de $15000, y debe tributar el 1%
