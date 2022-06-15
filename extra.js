@@ -1,1 +1,1 @@
-let pozo = 0;
+let pozo;
