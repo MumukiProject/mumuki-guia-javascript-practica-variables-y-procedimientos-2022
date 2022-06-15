@@ -4,7 +4,7 @@ En la comisión E están creando el registro histórico de representantes del cu
 ム registrarRepresentanteDelAnio("Sol", 2021)
 ム registrarRepresentanteDelAnio("Perla", 2022)
 ム representantesPorAnio
-"Sol" 2021, "Perla" 2022
+"Sol 2021, Perla 2022"
 ```
 
 Definí el procedimiento `registrarRepresentanteDelAnio` que tome por parámetro el nombre y el año del representante 
