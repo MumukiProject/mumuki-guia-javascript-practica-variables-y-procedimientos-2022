@@ -1,5 +1,5 @@
-Por una nueva reglamentación, todos pozos de dinero que tengan más de $15000, deberán tributar un impuesto (llamado I.V.G.: Impuesto a las Variables Globales) del 1% si el pozo. Sabemos también que el valor máximo del impuesto es de $500.
-Necesitamos una función para poder calcular el monto a pagar y un procedimiento que descuente del pozo el valor del impuesto que corresponda.
+Por una nueva reglamentación, si el `pozo` tiene más de $15000, deberá tributar un impuesto (llamado I.V.G.: Impuesto a las Variables Globales) del 1%. Sabemos también que el valor máximo del impuesto es de $500.
+Necesitamos una función para poder calcular el monto a pagar y un procedimiento que descuente del `pozo` el valor del impuesto que corresponda.
 
 Por ejemplo:
 
