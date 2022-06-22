@@ -1,4 +1,4 @@
-¡Otra nueva reglamentación! Después de algunas quejas contra el I.V.G. 😡, se determinó que ningún pozo deberá pagar el impuesto más de tres veces. En otras palabras, al aplicar el impuesto, sólo deberemos descontar del pozo su monto si se aplicó hasta 3 veces. 
+¡Otra nueva reglamentación! Después de algunas quejas contra el I.V.G. 😡, se determinó que ningún `pozo` deberá pagar el impuesto más de tres veces. En otras palabras, al aplicar el impuesto, sólo deberemos descontar del `pozo` su monto si se aplicó hasta 3 veces. 
 
 Por ejemplo:
 
