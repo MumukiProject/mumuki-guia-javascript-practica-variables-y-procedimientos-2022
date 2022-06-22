@@ -7,4 +7,4 @@ En la comisión E están creando el registro histórico de representantes del cu
 "Sol 2021, Perla 2022"
 ```
 
-Definí el procedimiento `registrarRepresentanteDelAnio` que tome por parámetro el nombre y el año del representante 
+> Definí el procedimiento `registrarRepresentanteDelAnio` que tome por parámetro el nombre y el año del representante 
