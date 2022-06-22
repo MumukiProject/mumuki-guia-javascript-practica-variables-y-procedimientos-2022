@@ -1,6 +1,6 @@
 Pero para todo esto tenga sentido, hay que poner plata 🤑
 
-Para agregar plata al pozo vamos a definir un procedimiento que tome por parámetro un aporte (monto de plata) y actualice el monto del pozo:
+Para agregar plata al `pozo` vamos a definir un procedimiento que tome por parámetro un aporte (monto de plata) y actualice el monto del mismo:
 
 ```javascript
 ム pozo = 500
