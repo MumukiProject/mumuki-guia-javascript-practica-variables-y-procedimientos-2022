@@ -1,0 +1,1 @@
+No te preocupes por declarar la variable `pozo`, ya la declaramos por vos. :hugging:
