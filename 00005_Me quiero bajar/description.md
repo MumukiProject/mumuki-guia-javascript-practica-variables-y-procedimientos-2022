@@ -1,4 +1,4 @@
-¿Pero qué pasa si alguien se quiere bajar del `pozo`? La agencia le devuelve solo 500, sin importar el monto inicial (asumimos que las personas deben aportar inicialmente más de 500).
+¿Pero qué pasa si alguien se quiere bajar del `pozo`? La agencia le devuelve solo 500 a la persona, sin importar el monto inicial (asumimos que las personas deben aportar inicialmente más de 500).
 
 ```javascript
 ム pozo = 3000
